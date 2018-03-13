@@ -92,6 +92,7 @@ img {
 
 .chal-desc{
     text-align: left;
+    word-wrap: break-word;
 }
 
 table{
